@@ -5,4 +5,10 @@ il back-end è pronto per la gestione pagamenti, manca il resto ma va integrato 
 front-end se vuoi vederlo:
 https://claude.ai/public/artifacts/1b5ce6ee-df1a-4c5e-942a-4ff7f222453d
 poi a app finita pensiamo all'estetica 
-pagamenti con paypal integrato tramite netifly ma teniamo hosting du github, sono già preimpostati per parlarsi in automatico e il servizio è gratuito
+pagamenti con paypal integrato tramite netifly ma teniamo hosting du github, sono già preimpostati per parlarsi in automatico e il servizio è gratuito, così abbiamo più di 100 transazioni al giorno, se no molto più semplice ma non scalabile si usa paypal ma hai solo 10 transazioni al giorno. 
+
+mail usiamo API esterne costi bassi e non abbiamo limiti da considerare al momento.
+
+
+in settimana carico il front-end smontato e comincio a costruire il back, fammi sapere tu il profilo git e ti metto Co-sviluppatore e poi fammi sapere come vuoi impostarla o se hai idee o vuoi cambiare qualcosa. 
+poi facendo capiremo 😁
