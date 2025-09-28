@@ -1,0 +1,8 @@
+nel read.me c'è la struttura dell'app, divisa in front-end e back-end, data, sicurezza e privacy.
+data e privacy sono standard/magazzino, roba easy
+il front-end è pronto devo solo smontarlo e affinare qualcosa come la ricerca o il flusso dati ma roba scialla che si può sistemare in isolamento, input e output isolati, non modificano il flusso dati dell'app
+il back-end è pronto per la gestione pagamenti, manca il resto ma va integrato con index, appena carico il front-end possiamo farlo
+front-end se vuoi vederlo:
+https://claude.ai/public/artifacts/1b5ce6ee-df1a-4c5e-942a-4ff7f222453d
+poi a app finita pensiamo all'estetica 
+pagamenti con paypal integrato tramite netifly ma teniamo hosting du github, sono già preimpostati per parlarsi in automatico e il servizio è gratuito
